@@ -102,6 +102,8 @@
       <module name="Problems-The__un_-ordered_sequence_test" target="11" />
       <module name="Problems-The_count_of_numbers_divisible_by_N_main" target="11" />
       <module name="Problems-The_count_of_numbers_divisible_by_N_test" target="11" />
+      <module name="Problems-The_forgotten_comments_main" target="11" />
+      <module name="Problems-The_forgotten_comments_test" target="11" />
       <module name="Problems-The_largest_element_of_a_sequence_main" target="11" />
       <module name="Problems-The_largest_element_of_a_sequence_test" target="11" />
       <module name="Problems-The_sequence_main" target="11" />
